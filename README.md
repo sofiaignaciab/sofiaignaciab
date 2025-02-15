@@ -4,7 +4,6 @@ I'm Sofía, I'm currently studying computer science.
 
 I'm primarily interested in cybersecurity, but I'm currently focused on learning concepts related to software engineering and artificial intelligence.
 
-- 
 
 ## Lenguages and Tools
 Here are some of my skills.
