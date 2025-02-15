@@ -3,9 +3,12 @@
 I'm Sofía, I'm currently studying computer science.
 
 I'm primarily interested in cybersecurity, but I'm currently focused on learning concepts related to software engineering and artificial intelligence.
+
 - 
+
 ## Lenguages and Tools
 Here are some of my skills.
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,docker,c,cpp,git)](https://skillicons.dev)
 <!--
 **sofiaignaciab/sofiaignaciab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
