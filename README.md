@@ -1,4 +1,4 @@
-## Hi, I'm Sofia <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" />
+## Hi, I'm Sofia <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="25" height="25" />
 
 I'm currently studying computer science. I'm primarily interested in cybersecurity, but I'm currently focused on learning concepts related to software engineering and artificial intelligence.
 
