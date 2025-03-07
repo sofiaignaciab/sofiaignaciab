@@ -1,6 +1,6 @@
 ## Hi, I'm Sofia <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Light%20Blue%20Heart.png" alt="Light Blue Heart" width="25" height="25" />
 
-I'm currently studying computer science. I'm primarily interested in cybersecurity, but I'm currently focused on learning concepts related to software engineering and artificial intelligence.
+I'm currently studying computer science. I'm primarily interested in cybersecurity, and I'm currently focused on learning concepts related to software engineering and cybersecurity.
 
 
 ### Lenguages and Tools
