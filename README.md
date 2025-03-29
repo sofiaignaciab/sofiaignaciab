@@ -1,13 +1,13 @@
 ## Hi, I'm Sofia
 
-I'm currently studying computer science. I'm primarily interested in cybersecurity, and I'm currently focused on learning concepts related to software engineering and cybersecurity.
+I'm currently studying computer science. I'm primarily interested on software engineering and machine learning.
 
 
+<!--
 ### Lenguages and Tools
 Here are some of my skills.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,docker,c,cpp,git,nestjs,nodejs,postgres,prisma,py,tailwind,ts)](https://skillicons.dev)
-<!--
 **sofiaignaciab/sofiaignaciab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
